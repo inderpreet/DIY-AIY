@@ -1,18 +1,22 @@
-# DIY Google AIY
+#DIY Google AIY
 
-This is an alternative to the Google AIY kit that was distributed with the May2017 issue of MagPi. Please free to fork and submit a pull request.
+This is an alternative to the Google AIY kit that was distributed with the May2017 issue of MagPi. The complete write-up of the project is available on Hackaday where I posted a teardown as well as instruction on how to get one of your own up and running.
 
-## Versions
+Please free to fork and submit a pull request.
 
-Currently working on this project. 
-* Schematic PCB in KiCAD
+##STLs
+For this project I have provided some STL files that can be downloaded and 3D printed. Here is a preview of what to expect.
 
-## TODO
+![alt text](render.png "Rendered In Fusion 360")
+
+The above was rendered with Autodesk Fusion 360 
+
+##TODO
 * Layout needs to be done and then tested.
 * Prototype Testing
 * Microphone Board needs to laid out
 
-## Author and License
+##Author and License
 
 Designed by [Inderpreet Singh](https://inderpreet.github.io)
 [Embedded Code Blog](https://embeddedcode.wordpress.com)
